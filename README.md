@@ -21,8 +21,9 @@
 
 *   [`ontology.md`](ontology.md) — Философская рамка исследования. Задаёт онтологию безысходности, деонтологизацию Void как постоянной антитезы, троичность качественных кризисов (Отрезок → Треугольник → Тетраэдр) и двухуровневую эмерджентность сознания.
 *   [`formalization.md`](formalization.md) — Техническая спецификация для эмпирических проверок. Переводит логические конфликты на язык алгебраической топологии (кликовые комплексы $K(G)$ и числа Бетти $\beta_k$), фиксирует меру сложности $C(G)$ и описывает 8 верификационных тестов.
-*   [mite-protocol-of-open-claims-and-questions-after-rev3.md](mite-protocol-of-open-claims-and-questions-after-rev3.md)
-*   [mite-scalar-vector-load-theory-φ-pressure-τ-weight.md](mite-scalar-vector-load-theory-φ-pressure-τ-weight.md)
+*   [mite-protocol-of-open-claims-and-questions-after-rev3.md](mite-protocol-of-open-claims-and-questions-after-rev3.md) Документ — рабочая повестка для кодинга и DECISIONS.md. Привязки — к разделам formalization rev3. Позиции, закрытые в rev3 (оплата по факту, β-квант действия, усиленный Тест 3, переписанный Тест 4), — исключены из списка.
+*   [mite-scalar-vector-load-theory-φ-pressure-τ-weight.md](mite-scalar-vector-load-theory-φ-pressure-τ-weight.md) апись трёх последовательных рассуждений (физическая интуиция → структура модели → вывод), оформленная отдельным слоем поверх замороженной спецификации rev3. Не редактирует её. Пункт протокола D3 закрыт выводом. Дата: ноябрь 2026.
+*   [TRI-VYNUZHDENNYKH-PEREKHODA-MITE-Rev4-1-Corrected.md](TRI-VYNUZHDENNYKH-PEREKHODA-MITE-Rev4-1-Corrected.md) Статус: исправление к rev4 от 4 ноября 2026. Уточнён п.2 про 3 активные грани после cross_s(tetrahedron) и добавлен нулевой этаж. Дата: 4 ноября 2026
 *   `/src` — Исходный код симулятора (дискретный граф, вычисление симплициальных гомологий, оператор перестройки `T_cross`).
 *   `/tests` — Скрипты автоматической верификации критериев (Тесты 1–8).
 
